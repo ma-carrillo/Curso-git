@@ -8,3 +8,7 @@ Misión
 Contribuir al desarrollo tecnológico integral de futuros profesionistas en múltiples áreas 
 del conocimiento, para abrir camino a la innovación generando nueva tecnología en el campo 
 aeronáutico mexicano.
+
+Visión
+Consolidar una comunidad altamente competitiva a nivel nacional e internacional donde 
+la generación de prototipos aeronáuticos sea aplicada a la industria.
